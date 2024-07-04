@@ -1,6 +1,3 @@
-
-// a plain DOM example of creating a  counter widget using the DOM
-
 function Counter() {
     return {
       count: 0,
