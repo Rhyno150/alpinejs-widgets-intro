@@ -5,14 +5,17 @@
       font-weight: bold;
       text-align: center;
       margin: 1rem 0;
+      background-color: #ff6b35;
+      padding: 20%;
     }
 
     button {
       padding: 0.5rem 1rem;
       margin: 0.2rem;
-      border: 1px solid #ccc;
+      border: 1px solid #black;
       border-radius: 4px;
       cursor: pointer;
+      
     }
 
     button:disabled {
@@ -22,5 +25,7 @@
 
     button:hover:not(:disabled) {
       background-color: blue;
+      background-color: #004e89;
     }
-  
+
+   
